@@ -2,7 +2,7 @@
 
 A/B test is a sort of online controlled experiment with two variants  (A/B – control and alternative groups) used extensively for advertising campaign optimizations. It is a hypothesis test aiming at confirming the statistical significance of the difference in results between the two groups.
 
-**Goal*: Analysis of test results
+**Goal**: Analysis of test results
 
 ## Instructions
 
