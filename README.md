@@ -10,7 +10,7 @@ Our test has the following ID: yrYnhIfsSNiRlMa7BQIG2g
 
 The control group has been labeled with `experimentID.0`, while the alternative group has been labeled with `experimentID.1`.
 
-Goal of the experiment was to increase the number of the following events: “sign_up” and “purchase”.
+Goal of the experiment was to increase the number of the following events: `sign_up` and `purchase`.
 
 Use Python/R for your analysis, and try to leave important comments in your code.
 
