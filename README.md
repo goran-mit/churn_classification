@@ -2,24 +2,33 @@
 
 A/B test is a sort of online controlled experiment with two variants  (A/B – control and alternative groups) used extensively for advertising campaign optimizations. It is a hypothesis test aiming at confirming the statistical significance of the difference in results between the two groups.
 
-**Goal**: Analysis of test results
+**Goal**: Analysis of test results.
 
-## Instructions
+**Instructions:**
 
-Our test has the following ID: yrYnhIfsSNiRlMa7BQIG2g
+- Our test has the following ID: yrYnhIfsSNiRlMa7BQIG2g
+- The control group has been labeled with ‘experimentID.0’, while the alternative group has been labeled with ‘experimentID.1’.
+- Goal of the experiment was to increase the number of the following events: “sign_up” and “purchase”.
+- Use SQL (any dialect) for your analysis, and try to leave important comments in your code.
+- Make visuals that will be included in your pdf slide deck. For this purpose you can use any free data visualization software solution, like Tableau Public or Google Looker.
 
-The control group has been labeled with `experimentID.0`, while the alternative group has been labeled with `experimentID.1`.
+**Deliverables:**
 
-Goal of the experiment was to increase the number of the following events: `sign_up` and `purchase`.
+- A pdf slide deck (<10 slides) detailing your strategic recommendations for our advertisers. It should be self-sufficient, i.e. must be understandable by the reader without any further comments.
+- A SQL code with comments.
+- A chosen data visualization tool file with visuals used in your presentation.
 
-Use Python/R for your analysis, and try to leave important comments in your code.
+**Rules:**
 
-## Deliverables
+We understand your time is precious and would not want you to spend more than **6 to 8 hours** on this over the span of **one week max**.
 
-A pdf slide deck (<10 slides) detailing your strategic recommendations for our advertisers. It should be self-sufficient, i.e. must be understandable by the reader without any further comments.
+**Evaluation:**
 
-A runnable jupyter-notebook containing all figures that appear in your presentation.
+Please send an email with your repository solution.
 
-## Rules
+It will be assessed based on:
 
-We understand your time is precious and would not want you to spend more than **6 to 8 hours** on this over the span of **one week max**. The outcome should be runnable locally on MacOS.
+- Your ability to distill strategic recommendations from a data set
+- Your ability to communicate insights in a clear and effective way to a target audience
+- Your ability with data analysis
+- SQL proficiency
